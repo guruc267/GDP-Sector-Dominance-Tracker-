@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2025.1" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="42" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>P_Data_Extract_From_World_Development_Indicators (1).xlsx
+Query=`Data$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Country Name" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="Country Code" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="Series Name" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="Series Code" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1960 [YR1960]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1961 [YR1961]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1962 [YR1962]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1963 [YR1963]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1964 [YR1964]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1965 [YR1965]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1966 [YR1966]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1967 [YR1967]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1968 [YR1968]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1969 [YR1969]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1970 [YR1970]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1971 [YR1971]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1972 [YR1972]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1973 [YR1973]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1974 [YR1974]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1975 [YR1975]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1976 [YR1976]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1977 [YR1977]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1978 [YR1978]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1979 [YR1979]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1980 [YR1980]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1981 [YR1981]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1982 [YR1982]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1983 [YR1983]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1984 [YR1984]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1985 [YR1985]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1986 [YR1986]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1987 [YR1987]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1988 [YR1988]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1989 [YR1989]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1990 [YR1990]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1991 [YR1991]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1992 [YR1992]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1993 [YR1993]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1994 [YR1994]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1995 [YR1995]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1996 [YR1996]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1997 [YR1997]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1998 [YR1998]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="1999 [YR1999]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2000 [YR2000]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2001 [YR2001]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2002 [YR2002]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2003 [YR2003]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2004 [YR2004]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2005 [YR2005]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2006 [YR2006]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2007 [YR2007]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2008 [YR2008]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2009 [YR2009]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2010 [YR2010]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2011 [YR2011]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2012 [YR2012]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2013 [YR2013]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2014 [YR2014]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2015 [YR2015]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2016 [YR2016]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2017 [YR2017]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2018 [YR2018]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2019 [YR2019]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2020 [YR2020]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2021 [YR2021]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2022 [YR2022]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2023 [YR2023]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+            <Field name="2024 [YR2024]" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||`Data$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="150" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="Country Name" />
+            <Field field="Country Code" />
+            <Field field="Series Name" />
+            <Field field="Series Code" />
+          </KeyFields>
+          <DataFields>
+            <Field field="Country Name" selected="False" />
+            <Field field="Country Code" selected="False" />
+            <Field field="Series Name" selected="False" />
+            <Field field="Series Code" selected="False" />
+            <Field field="1960 [YR1960]" selected="True" />
+            <Field field="1961 [YR1961]" selected="True" />
+            <Field field="1962 [YR1962]" selected="True" />
+            <Field field="1963 [YR1963]" selected="True" />
+            <Field field="1964 [YR1964]" selected="True" />
+            <Field field="1965 [YR1965]" selected="True" />
+            <Field field="1966 [YR1966]" selected="True" />
+            <Field field="1967 [YR1967]" selected="True" />
+            <Field field="1968 [YR1968]" selected="True" />
+            <Field field="1969 [YR1969]" selected="True" />
+            <Field field="1970 [YR1970]" selected="True" />
+            <Field field="1971 [YR1971]" selected="True" />
+            <Field field="1972 [YR1972]" selected="True" />
+            <Field field="1973 [YR1973]" selected="True" />
+            <Field field="1974 [YR1974]" selected="True" />
+            <Field field="1975 [YR1975]" selected="True" />
+            <Field field="1976 [YR1976]" selected="True" />
+            <Field field="1977 [YR1977]" selected="True" />
+            <Field field="1978 [YR1978]" selected="True" />
+            <Field field="1979 [YR1979]" selected="True" />
+            <Field field="1980 [YR1980]" selected="True" />
+            <Field field="1981 [YR1981]" selected="True" />
+            <Field field="1982 [YR1982]" selected="True" />
+            <Field field="1983 [YR1983]" selected="True" />
+            <Field field="1984 [YR1984]" selected="True" />
+            <Field field="1985 [YR1985]" selected="True" />
+            <Field field="1986 [YR1986]" selected="True" />
+            <Field field="1987 [YR1987]" selected="True" />
+            <Field field="1988 [YR1988]" selected="True" />
+            <Field field="1989 [YR1989]" selected="True" />
+            <Field field="1990 [YR1990]" selected="True" />
+            <Field field="1991 [YR1991]" selected="True" />
+            <Field field="1992 [YR1992]" selected="True" />
+            <Field field="1993 [YR1993]" selected="True" />
+            <Field field="1994 [YR1994]" selected="True" />
+            <Field field="1995 [YR1995]" selected="True" />
+            <Field field="1996 [YR1996]" selected="True" />
+            <Field field="1997 [YR1997]" selected="True" />
+            <Field field="1998 [YR1998]" selected="True" />
+            <Field field="1999 [YR1999]" selected="True" />
+            <Field field="2000 [YR2000]" selected="True" />
+            <Field field="2001 [YR2001]" selected="True" />
+            <Field field="2002 [YR2002]" selected="True" />
+            <Field field="2003 [YR2003]" selected="True" />
+            <Field field="2004 [YR2004]" selected="True" />
+            <Field field="2005 [YR2005]" selected="True" />
+            <Field field="2006 [YR2006]" selected="True" />
+            <Field field="2007 [YR2007]" selected="True" />
+            <Field field="2008 [YR2008]" selected="True" />
+            <Field field="2009 [YR2009]" selected="True" />
+            <Field field="2010 [YR2010]" selected="True" />
+            <Field field="2011 [YR2011]" selected="True" />
+            <Field field="2012 [YR2012]" selected="True" />
+            <Field field="2013 [YR2013]" selected="True" />
+            <Field field="2014 [YR2014]" selected="True" />
+            <Field field="2015 [YR2015]" selected="True" />
+            <Field field="2016 [YR2016]" selected="True" />
+            <Field field="2017 [YR2017]" selected="True" />
+            <Field field="2018 [YR2018]" selected="True" />
+            <Field field="2019 [YR2019]" selected="True" />
+            <Field field="2020 [YR2020]" selected="True" />
+            <Field field="2021 [YR2021]" selected="True" />
+            <Field field="2022 [YR2022]" selected="True" />
+            <Field field="2023 [YR2023]" selected="True" />
+            <Field field="2024 [YR2024]" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DataCleansePro.DataCleansePro">
+        <Position x="258" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RemoveNullRows value="False" />
+          <RemoveNullColumns value="False" />
+          <RemoveTabsLineBreaksAndDuplicates value="False" />
+          <RemoveLeadingAndTrailingWhitespace value="True" />
+          <RemoveAllWhitespaces value="True" />
+          <RemoveHTMLTags value="False" />
+          <RemoveInvisibleCharacters value="False" />
+          <Fields>
+            <Field value="Country Name" selected="True" />
+            <Field value="Country Code" selected="True" />
+            <Field value="Series Name" selected="True" />
+            <Field value="Series Code" selected="True" />
+            <Field value="Name" selected="True" />
+            <Field value="Value" selected="True" />
+            <Field value="*Unknown" selected="True" />
+          </Fields>
+          <RemoveLetters value="False" />
+          <RemoveNumbers value="False" />
+          <RemovePunctuation value="False" />
+          <Letters value="" />
+          <Numbers value="" />
+          <Punctuations value="" />
+          <Exceptions value="" />
+          <Checkbox_ReplaceStringColumns value="True" />
+          <Checkbox_ReplaceNumericColumns value="True" />
+          <radioButton_ReplaceNullwithBlanks value="True" />
+          <radioButton_ReplaceBlankswithNulls value="False" />
+          <radioButton_ReplaceNullwithZero value="True" />
+          <radioButton_ReplaceZerowithNulls value="False" />
+          <ReplaceWithBlanks value="True" />
+          <ReplaceWithZero value="True" />
+          <CheckBox_ModifyCase value="False" />
+          <ModifyCase value="none" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDataCleanse" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="390" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF [Value] = &quot;..&quot; THEN NULL()&#xA;ELSE TONUMBER([Value])&#xA;ENDIF&#xA;" field="Value" size="255" type="V_String" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Value = IF [Value] = ".." THEN NULL()
+ELSE TONUMBER([Value])
+ENDIF
+
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="498" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Value" selected="True" type="Double" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="606" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Value" action="Avg" rename="Avg_Value" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+        <Position x="642" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <CartesianMode>Allow</CartesianMode>
+          <SelectConfiguration>
+            <Configuration outputConnection="Output">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Target_Avg_Value" selected="True" input="Target_" />
+                <SelectField field="Source_Country Name" selected="True" input="Source_" />
+                <SelectField field="Source_Country Code" selected="True" input="Source_" />
+                <SelectField field="Source_Series Name" selected="True" input="Source_" />
+                <SelectField field="Source_Series Code" selected="True" input="Source_" />
+                <SelectField field="Source_Name" selected="True" input="Source_" />
+                <SelectField field="Source_Value" selected="True" input="Source_" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="738" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF ISNULL([Value]) THEN [Avg_Value] ELSE [Value]&#xA;ENDIF" field="Avg_Value" size="8" type="Double" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Avg_Value = IF ISNULL([Value]) THEN [Avg_Value] ELSE [Value]
+ENDIF
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="894" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25"><![CDATA[C:\Users\K Guru Charan\Downloads\STEP HACKTHON\2\P_Data_Extract_From_World_Development_Indicators (1).xlsx|||Sector Dominance ]]></File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <MipTenantId />
+            <PreserveFormat>False</PreserveFormat>
+            <MipSensitivity />
+            <UNCLocal>False</UNCLocal>
+            <SkipFieldNames>False</SkipFieldNames>
+            <SuppressBlankFile>False</SuppressBlankFile>
+            <OutputOption>Create</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[P_Data_Extract_From_World_Development_Indicators (1).xlsx
+Query=Sector Dominance ]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="8" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="8" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <DefaultTZ value="Local" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>2. GDP Sector Dominance Tracker</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="c5dbac6d-a4bc-42f0-9e42-14a528a11373" />
+      <Telemetry>
+        <PreviousWorkflowId value="2882590a-9b05-4b12-8481-27a56a908dfc" />
+        <OriginWorkflowId value="2882590a-9b05-4b12-8481-27a56a908dfc" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
