@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2025.1" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="186" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx
+Query=`API_NY.GDP.MKTP.CD_DS2_en_c...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Country Name" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="V_String" />
+            <Field name="Country Code" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="V_String" />
+            <Field name="Indicator Name" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="V_String" />
+            <Field name="Indicator Code" size="255" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="V_String" />
+            <Field name="1960" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1961" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1962" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1963" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1964" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1965" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1966" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1967" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1968" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1969" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1970" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1971" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1972" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1973" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1974" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1975" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1976" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1977" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1978" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1979" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1980" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1981" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1982" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1983" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1984" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1985" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1986" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1987" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1988" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1989" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1990" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1991" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1992" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1993" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1994" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1995" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1996" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1997" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1998" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="1999" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2000" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2001" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2002" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2003" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2004" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2005" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2006" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2007" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2008" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2009" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2010" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2011" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2012" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2013" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2014" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2015" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2016" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2017" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2018" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2019" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2020" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2021" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2022" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2023" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+            <Field name="2024" source="File: C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||`API_NY.GDP.MKTP.CD_DS2_en_csv_v$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="666" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\K Guru Charan\Downloads\STEP HACKTHON\1.GDP Trend and Growth Spike Detector\API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx|||GDP GROSS</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <MipTenantId />
+            <PreserveFormat>False</PreserveFormat>
+            <MipSensitivity />
+            <UNCLocal>False</UNCLocal>
+            <SkipFieldNames>False</SkipFieldNames>
+            <SuppressBlankFile>False</SuppressBlankFile>
+            <OutputOption>Create</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>API_NY.GDP.MKTP.CD_DS2_en_csv_v2_122379.csv.xlsx
+Query=GDP GROSS</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="426" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="Country Name" />
+            <Field field="Country Code" />
+            <Field field="Indicator Name" />
+            <Field field="Indicator Code" />
+          </KeyFields>
+          <DataFields>
+            <Field field="Country Name" selected="False" />
+            <Field field="Country Code" selected="False" />
+            <Field field="Indicator Name" selected="False" />
+            <Field field="Indicator Code" selected="False" />
+            <Field field="1960" selected="True" />
+            <Field field="1961" selected="True" />
+            <Field field="1962" selected="True" />
+            <Field field="1963" selected="True" />
+            <Field field="1964" selected="True" />
+            <Field field="1965" selected="True" />
+            <Field field="1966" selected="True" />
+            <Field field="1967" selected="True" />
+            <Field field="1968" selected="True" />
+            <Field field="1969" selected="True" />
+            <Field field="1970" selected="True" />
+            <Field field="1971" selected="True" />
+            <Field field="1972" selected="True" />
+            <Field field="1973" selected="True" />
+            <Field field="1974" selected="True" />
+            <Field field="1975" selected="True" />
+            <Field field="1976" selected="True" />
+            <Field field="1977" selected="True" />
+            <Field field="1978" selected="True" />
+            <Field field="1979" selected="True" />
+            <Field field="1980" selected="True" />
+            <Field field="1981" selected="True" />
+            <Field field="1982" selected="True" />
+            <Field field="1983" selected="True" />
+            <Field field="1984" selected="True" />
+            <Field field="1985" selected="True" />
+            <Field field="1986" selected="True" />
+            <Field field="1987" selected="True" />
+            <Field field="1988" selected="True" />
+            <Field field="1989" selected="True" />
+            <Field field="1990" selected="True" />
+            <Field field="1991" selected="True" />
+            <Field field="1992" selected="True" />
+            <Field field="1993" selected="True" />
+            <Field field="1994" selected="True" />
+            <Field field="1995" selected="True" />
+            <Field field="1996" selected="True" />
+            <Field field="1997" selected="True" />
+            <Field field="1998" selected="True" />
+            <Field field="1999" selected="True" />
+            <Field field="2000" selected="True" />
+            <Field field="2001" selected="True" />
+            <Field field="2002" selected="True" />
+            <Field field="2003" selected="True" />
+            <Field field="2004" selected="True" />
+            <Field field="2005" selected="True" />
+            <Field field="2006" selected="True" />
+            <Field field="2007" selected="True" />
+            <Field field="2008" selected="True" />
+            <Field field="2009" selected="True" />
+            <Field field="2010" selected="True" />
+            <Field field="2011" selected="True" />
+            <Field field="2012" selected="True" />
+            <Field field="2013" selected="True" />
+            <Field field="2014" selected="True" />
+            <Field field="2015" selected="True" />
+            <Field field="2016" selected="True" />
+            <Field field="2017" selected="True" />
+            <Field field="2018" selected="True" />
+            <Field field="2019" selected="True" />
+            <Field field="2020" selected="True" />
+            <Field field="2021" selected="True" />
+            <Field field="2022" selected="True" />
+            <Field field="2023" selected="True" />
+            <Field field="2024" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="522" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression><![CDATA[[Value] != 0
+]]></Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[[Value] != 0
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DataCleansePro.DataCleansePro">
+        <Position x="306" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RemoveNullRows value="False" />
+          <RemoveNullColumns value="False" />
+          <RemoveTabsLineBreaksAndDuplicates value="False" />
+          <RemoveLeadingAndTrailingWhitespace value="True" />
+          <RemoveAllWhitespaces value="False" />
+          <RemoveHTMLTags value="False" />
+          <RemoveInvisibleCharacters value="False" />
+          <Fields>
+            <Field value="Country Name" selected="True" />
+            <Field value="Country Code" selected="True" />
+            <Field value="Indicator Name" selected="True" />
+            <Field value="Indicator Code" selected="True" />
+            <Field value="1960" selected="True" />
+            <Field value="1961" selected="True" />
+            <Field value="1962" selected="True" />
+            <Field value="1963" selected="True" />
+            <Field value="1964" selected="True" />
+            <Field value="1965" selected="True" />
+            <Field value="1966" selected="True" />
+            <Field value="1967" selected="True" />
+            <Field value="1968" selected="True" />
+            <Field value="1969" selected="True" />
+            <Field value="1970" selected="True" />
+            <Field value="1971" selected="True" />
+            <Field value="1972" selected="True" />
+            <Field value="1973" selected="True" />
+            <Field value="1974" selected="True" />
+            <Field value="1975" selected="True" />
+            <Field value="1976" selected="True" />
+            <Field value="1977" selected="True" />
+            <Field value="1978" selected="True" />
+            <Field value="1979" selected="True" />
+            <Field value="1980" selected="True" />
+            <Field value="1981" selected="True" />
+            <Field value="1982" selected="True" />
+            <Field value="1983" selected="True" />
+            <Field value="1984" selected="True" />
+            <Field value="1985" selected="True" />
+            <Field value="1986" selected="True" />
+            <Field value="1987" selected="True" />
+            <Field value="1988" selected="True" />
+            <Field value="1989" selected="True" />
+            <Field value="1990" selected="True" />
+            <Field value="1991" selected="True" />
+            <Field value="1992" selected="True" />
+            <Field value="1993" selected="True" />
+            <Field value="1994" selected="True" />
+            <Field value="1995" selected="True" />
+            <Field value="1996" selected="True" />
+            <Field value="1997" selected="True" />
+            <Field value="1998" selected="True" />
+            <Field value="1999" selected="True" />
+            <Field value="2000" selected="True" />
+            <Field value="2001" selected="True" />
+            <Field value="2002" selected="True" />
+            <Field value="2003" selected="True" />
+            <Field value="2004" selected="True" />
+            <Field value="2005" selected="True" />
+            <Field value="2006" selected="True" />
+            <Field value="2007" selected="True" />
+            <Field value="2008" selected="True" />
+            <Field value="2009" selected="True" />
+            <Field value="2010" selected="True" />
+            <Field value="2011" selected="True" />
+            <Field value="2012" selected="True" />
+            <Field value="2013" selected="True" />
+            <Field value="2014" selected="True" />
+            <Field value="2015" selected="True" />
+            <Field value="2016" selected="True" />
+            <Field value="2017" selected="True" />
+            <Field value="2018" selected="True" />
+            <Field value="2019" selected="True" />
+            <Field value="2020" selected="True" />
+            <Field value="2021" selected="True" />
+            <Field value="2022" selected="True" />
+            <Field value="2023" selected="True" />
+            <Field value="2024" selected="True" />
+            <Field value="*Unknown" selected="True" />
+          </Fields>
+          <RemoveLetters value="False" />
+          <RemoveNumbers value="False" />
+          <RemovePunctuation value="False" />
+          <Letters value="" />
+          <Numbers value="" />
+          <Punctuations value="" />
+          <Exceptions value="" />
+          <Checkbox_ReplaceStringColumns value="True" />
+          <Checkbox_ReplaceNumericColumns value="True" />
+          <radioButton_ReplaceNullwithBlanks value="True" />
+          <radioButton_ReplaceBlankswithNulls value="False" />
+          <radioButton_ReplaceNullwithZero value="True" />
+          <radioButton_ReplaceZerowithNulls value="False" />
+          <ReplaceWithBlanks value="True" />
+          <ReplaceWithZero value="True" />
+          <CheckBox_ModifyCase value="False" />
+          <ModifyCase value="none" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDataCleanse" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="True" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <DefaultTZ value="Local" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>GDP Gross Dataset</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="0159894c-7cc6-496b-8383-e75fbdc4c856" />
+      <Telemetry>
+        <PreviousWorkflowId value="cc5b0fce-bc52-4bd2-9f58-1186b4da644b" />
+        <OriginWorkflowId value="cc5b0fce-bc52-4bd2-9f58-1186b4da644b" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
