@@ -154,7 +154,9 @@ The following diagram is included in the repository and helps explain the databa
 ### OutPut of GDP Sector Dominance Tracker 
 
 <img width="2076" height="1164" alt="image" src="https://github.com/user-attachments/assets/170ef18e-963b-4f87-98a5-41e930218039" />
+
 <img width="2074" height="1168" alt="image" src="https://github.com/user-attachments/assets/0b756fdb-e497-4982-a07b-3bf725b874fe" />
+
 <img width="2068" height="1156" alt="image" src="https://github.com/user-attachments/assets/416b49f0-d8a2-4353-8705-a78398c8ecc7" />
 
 ---
